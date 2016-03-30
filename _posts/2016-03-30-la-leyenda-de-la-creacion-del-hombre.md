@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Se convocaron los dioses y en seguida dijeron:'
-datePublished: '2016-03-30T02:32:13.806Z'
-dateModified: '2016-03-30T02:31:49.278Z'
+datePublished: '2016-03-30T02:34:04.379Z'
+dateModified: '2016-03-30T02:33:22.854Z'
 title: LA LEYENDA DE LA CREACIÓN DEL HOMBRE
 author: []
 sourcePath: _posts/2016-03-30-la-leyenda-de-la-creacion-del-hombre.md
@@ -59,7 +59,5 @@ Luego fueron a hacerlo y Quetzalcóatl se cayó en el hoyo, se tropezó y lo esp
 ---¿Qué haré, nahual mío? Y este le respondió: ---Puesto que la cosa salió mal, que resulte como sea.
 
 Los recoge, los junta, hace un lío con ellos, que luego llevó a Tamoanchan. Y tan pronto llegó, la que se llama Quilaztli, que es Cihuacóatl, los molió y los puso después sobre un barreño precioso. Quetzalcóatl sobre él se sangró su miembro. Y en seguida hicieron penitencia los dioses que se han nombrado: Apantecuhtli, Huictolinqui, Tepanquizqui Tlallamánac, Tzontémoc y el sexto de ellos Quetzalcóatl. Y dijeron:
-
-c
 
 ---Han nacido, oh dioses, los macehuales (los merecidos por la penitencia). Porque, por nosotros los dioses hicieron penitencia.
