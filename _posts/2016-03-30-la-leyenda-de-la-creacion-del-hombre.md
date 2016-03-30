@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'Se convocaron los dioses y en seguida dijeron:'
-datePublished: '2016-03-30T02:24:05.481Z'
-dateModified: '2016-03-30T02:20:33.193Z'
+datePublished: '2016-03-30T02:27:11.196Z'
+dateModified: '2016-03-30T02:26:28.468Z'
 title: LA LEYENDA DE LA CREACIÓN DEL HOMBRE
 author: []
+sourcePath: _posts/2016-03-30-la-leyenda-de-la-creacion-del-hombre.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-30-la-leyenda-de-la-creacion-del-hombre.md
-published: true
 url: la-leyenda-de-la-creacion-del-hombre/index.html
 _type: Article
 
