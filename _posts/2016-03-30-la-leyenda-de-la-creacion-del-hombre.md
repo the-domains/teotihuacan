@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Se convocaron los dioses y en seguida dijeron:'
-datePublished: '2016-03-30T02:38:28.445Z'
-dateModified: '2016-03-30T02:38:13.736Z'
-title: LA LEYENDA DE LA CREACIÓN DEL HOMBRE
+datePublished: '2016-03-30T02:53:07.028Z'
+dateModified: '2016-03-30T02:52:46.185Z'
+title: La Leyenda de la Creación del Hombre
 author: []
 sourcePath: _posts/2016-03-30-la-leyenda-de-la-creacion-del-hombre.md
 published: true
@@ -24,7 +24,7 @@ _type: Article
 ---
 Se convocaron los dioses y en seguida dijeron:
 
----¿Quién vivirá en la tierra? porque ha sido ya cimentado el cielo, y ha sido cimentada la tierra. 
+---¿Quién vivirá en la tierra? porque ha sido ya cimentado el cielo, y ha sido cimentada la tierra.  
 
 ¿Quién habitará en la tierra, oh dioses?
 
